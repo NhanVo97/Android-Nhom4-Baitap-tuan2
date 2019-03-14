@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="academy">Học Viện</string>
+    <string name="app_name">Thông tin cá nhân</string>
+    <string name="cancer">Thoát</string>
+    <string name="CMND">CMND</string>
+    <string name="college">Cao Đẳng</string>
+    <string name="errCMNDNull">Giá trị CMND không được để trống</string>
+    <string name="errNameNull">Giá trị Tên không được để trống</string>
+    <string name="fullname">Họ Và Tên</string>
+    <string name="hintCMND">CMND phải đúng 9 kí tự</string>
+    <string name="hintInfoOther">Nhập thông tin khác</string>
+    <string name="hintName">Tên phải lớn hơn hoặc 3 kí tự</string>
+    <string name="hobby">Sở thích</string>
+    <string name="infomation_other">Thông tin khác</string>
+    <string name="information_personal">Thông tin cá nhân</string>
+    <string name="qualification">Chứng chỉ</string>
+    <string name="read_magazine">Đọc tạp chí</string>
+    <string name="read_newspaper">Đọc báo</string>
+    <string name="read_watchTV">Xem TV</string>
+    <string name="send_info">Gửi Thông Tin</string>
+    <string name="university">Đại Học</string>
+</resources>

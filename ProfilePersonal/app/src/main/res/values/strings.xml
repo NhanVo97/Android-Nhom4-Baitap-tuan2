@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProfilePersonal</string>
+    <string name="information_personal">Information Personal</string>
+    <string name="fullname">Full Name:</string>
+    <string name="CMND">ID Card:</string>
+    <string name="qualification">Qualification</string>
+    <string name="hobby">Hobby</string>
+    <string name="infomation_other">Information Other</string>
+    <string name="college">College</string>
+    <string name="university">University</string>
+    <string name="academy">Academy</string>
+    <string name="read_newspaper">Read Newspaper</string>
+    <string name="read_magazine">Read Magazine</string>
+    <string name="read_watchTV">Watch TV</string>
+    <string name="hintInfoOther">Input Other Information </string>
+    <string name="send_info">Send Information</string>
+    <string name="hintName">The name must be >= 3 character</string>
+    <string name="hintCMND">The CMND must be to true 9  </string>
+    <string name="errNameNull">The Input Name havent empty</string>
+    <string name="errCMNDNull">The Input CMND havent empty</string>
+    <string name="cancer">Cancer</string>
+</resources>
