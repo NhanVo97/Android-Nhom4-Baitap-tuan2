@@ -1,0 +1,47 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:padding="10dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imOne"
+            android:layout_weight="1"
+            android:background="@drawable/matsau"
+            android:layout_width="120dp"
+            android:layout_height="180dp" />
+        <ImageView
+            android:id="@+id/imTwo"
+            android:layout_weight="1"
+            android:background="@drawable/matsau"
+            android:layout_width="120dp"
+            android:layout_height="180dp" />
+        <ImageView
+            android:id="@+id/imThree"
+            android:layout_weight="1"
+            android:background="@drawable/matsau"
+            android:layout_width="120dp"
+            android:layout_height="180dp" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/result"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:textSize="18dp"
+        android:background="#8BC34A"
+        android:gravity="center"
+        android:text="Scope: 0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_marginTop="10dp"
+        android:text="Play again"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
